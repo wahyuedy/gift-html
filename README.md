@@ -1,14 +1,6 @@
-# Kado
--Flower code from: https://codepen.io/mdusmanansari/pen/BamepLe
-
-
-# Description
-Flower code tiktok trend 
-
-Responsive Web -- bisa langsung disesuikan di file css --> style.css
-
 # Author
-- Flower Code : Md Usman Ansari (@MdUsmanAnsari)
-- Index Code : Septian Dwi Cahyo (@Septiandwica)
+- Flower Code : https://github.com/mabelolivera10/floresamarillasycorazones
+- Index Code : https://github.com/septiandwica/kado
 
-Thanks to codepan and mdusmanansari
+Thanks to mabelolivera10 and septiandwica
+
